@@ -9,7 +9,7 @@ Visualizations were created using Matplotlilb.
 
 # Plot
 
-# Linear Regression
+![Plot](https://github.com/Mi-kio/Movie-Box-Office-Revenue-Prediction/blob/main/docs/plot.png)
 
 # Scatter Plot
 
