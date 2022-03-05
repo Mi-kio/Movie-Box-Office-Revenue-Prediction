@@ -14,12 +14,12 @@ Visualizations were created using Matplotlilb.
 # Scatter Plot
 
 # Insights
--
--
+- Regression coefficient - 3.11
+- Intercept - -7.2 Million
 
 # Tech stack
 - Python (Pandas, Matplotlib, Scikit learn)
-- CSV file from 
+- [CSV file](https://www.the-numbers.com/)
 
 # Process
 - Gathered data
